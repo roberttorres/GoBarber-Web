@@ -13,6 +13,8 @@
 
 <h2> Sistema de agendamento para barbearia </h2> 
 
+<h2> Preview </h2>
+
 <h2> Descrição </h2> 
 
 Aplicação desenvolvida durante o bootcamp GoStack da Rocketseat utilizando as tecnologias e padrões de projeto mais utilizados pelo mercado, dentre as quais:
@@ -43,9 +45,6 @@ Antes de rodar essa aplicação certifique-se que o <a href="https://github.com/
 2. Navegue até o diretório da aplicação <code> cd gobarber. </code>
 3. Rode <code> yarn </code> ou <code> npm i </code> para instalar todas as dependências.
 4. Rode <code> yarn start </code> ou <code> npm run start </code> e aguarde o sistema ser aberto em <code> http://localhost:3000. </code>
-
-<h2> Preview </h2>
-
 
 <h2> <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" width = "22" height = "22" > Licença </h2>
 
