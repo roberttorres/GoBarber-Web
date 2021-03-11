@@ -39,10 +39,10 @@ Aplicação desenvolvida durante o bootcamp GoStack da Rocketseat utilizando as 
 
 Antes de rodar essa aplicação certifique-se que o <a href="https://github.com/roberttorres/GoBarber-API"> backend </a> também esteja rodando! <p>
   
-1. Abra seu terminal em uma pasta qualquer e clone este repositório git clone https://github.com/roberttorres/GoBarber-API.git.
-2. Navegue até o diretório da aplicação cd gobarber.
-3. Rode yarn ou npm i para instalar todas as dependências.
-4. Rode yarn start ou npm run start e aguarde o sistema ser aberto em http://localhost:3000.
+1. Abra seu terminal em uma pasta qualquer e clone este repositório <mark> git clone https://github.com/roberttorres/GoBarber-API.git. </mark>
+2. Navegue até o diretório da aplicação <mark> cd gobarber. </mark>
+3. Rode <mark> yarn </mark> ou <mark> npm i </mark> para instalar todas as dependências.
+4. Rode <mark> yarn start </mark> ou <mark> npm run start </mark> e aguarde o sistema ser aberto em <mark> http://localhost:3000. </mark>
 
 <h2> Preview </h2>
 
