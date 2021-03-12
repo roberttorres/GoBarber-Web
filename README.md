@@ -15,6 +15,10 @@
 
 <h2> Preview </h2>
 
+<p align="center">
+  <img src="/gif/gif_web.gif" alt="animated" />
+</p>
+
 <h2> Descrição </h2> 
 
 Aplicação desenvolvida durante o bootcamp GoStack da Rocketseat utilizando as tecnologias e padrões de projeto mais utilizados pelo mercado, dentre as quais:
